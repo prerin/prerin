@@ -8,11 +8,13 @@
 
 ## リポジトリ概要
 ### application
-* book_release_info 特定の漫画の最新の発売日をまとめたサイト（改善中）、python, django
+* book_release_info 特定の漫画の最新の発売日をまとめたサイト、python, django
+* management_app 顧客の名前の登録と一覧の表示ができるアプリ、java, spring boot
 * trello todoリストを管理するためのアプリ、javascript, node.js
 * yelpcamp キャンプ場の情報をまとめたサイト（udemyの講義内容）、javascript, node.js
 * bingo bingo大会を開くことのできるサイト、javascript, node.js
 * calculator 電卓の機能を持ったサイト、javascript, node.js
+
 
 ### dl_application
 * filling_mask 文章の虫食いの部分を予測結果を返すアプリ、python, gradio
