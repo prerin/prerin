@@ -16,6 +16,7 @@ DataOpsとして統合DBを作成するためパイプラインの開発やGoや
 ## お問い合わせ先
 
 メールアドレス：yukimuraryofu@icloud.com
+
 名前：川上
 
 ## グレード管理
